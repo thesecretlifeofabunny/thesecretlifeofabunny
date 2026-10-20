@@ -1,5 +1,5 @@
 ## Hi there 👋
--- I've switched to a private instance for all personal projects now.
+-- I've switched to a private self hosted git instance for all personal projects now.
 
 
 - 🔭 I’m currently working on ... Contributing to projects, working on my own, may not commit everything.
